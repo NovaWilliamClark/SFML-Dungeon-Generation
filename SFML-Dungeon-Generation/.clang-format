@@ -1,0 +1,19 @@
+﻿---
+BasedOnStyle: LLVM
+AccessModifierOffset: '-4'
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakTemplateDeclarations: 'Yes'
+BreakBeforeBraces: Custom
+BreakConstructorInitializers: AfterColon
+ColumnLimit: '120'
+IncludeIsMainRegex: '([-_](test|unittest))?$'
+IndentPPDirectives: BeforeHash
+IndentWidth: '4'
+Language: Cpp
+MaxEmptyLinesToKeep: '2'
+NamespaceIndentation: All
+PointerAlignment: Left
+TabWidth: '4'
+UseTab: Never
+
+...
