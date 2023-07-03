@@ -25,6 +25,4 @@ Generating the dungeon layout is just a simple couple of executing steps:
 
 ## Demo
 
-<video width="960" height="540" controls>
-  <source src="./Docs/Dungeon_Generation.mp4" type="video/mp4">
-</video>
+![GenerationDemo](./Docs/DungeonGenDemo.gif)
